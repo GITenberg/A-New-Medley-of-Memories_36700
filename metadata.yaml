@@ -14,6 +14,8 @@ creator:
     gutenberg_agent_id: '37957'
     url: http://www.gutenberg.org/2009/agents/37957
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/36700#A-New-Medley-of-Memories
 gutenberg_issued: '2011-07-11'
 gutenberg_type: Text
 identifiers:
